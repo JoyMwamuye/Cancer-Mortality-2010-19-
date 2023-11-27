@@ -1,2 +1,1 @@
-# Cancer-Mortality-2010-19-
-Kenya cancer mortality EDA
+Kenya, like the rest of the world has been experiencing an alarming rise in the number of deaths attributed to cancer. Lets explore the cancer mortality statistics for 29 different types of cancers ove the decade 2010-2019.
