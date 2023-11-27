@@ -1,0 +1,291 @@
+﻿Cancer Type,Body System,Male or Female,Year,Total Deaths
+Liver cancer,Digestive,N/A,01/01/2019,724
+Kidney cancer,Renal,N/A,01/01/2019,172
+Lip and oral cavity cancer,Digestive,N/A,01/01/2019,887
+"Tracheal, bronchus, and lung cancer",Respiratory,N/A,01/01/2019,1282
+Larynx cancer,Respiratory,N/A,01/01/2019,326
+Gallbladder and biliary tract cancer,Digestive,N/A,01/01/2019,292
+Malignant skin melanoma,Skin,N/A,01/01/2019,134
+Leukemia,Circulatory,N/A,01/01/2019,800
+Hodgkin lymphoma,Circulatory,N/A,01/01/2019,164
+Multiple myeloma,Circulatory,N/A,01/01/2019,307
+Other neoplasms,Circulatory,N/A,01/01/2019,68
+Breast cancer,Reproductive,Male&Female,01/01/2019,2321
+Prostate cancer,Reproductive,Male,01/01/2019,1887
+Thyroid cancer,Endocrine,N/A,01/01/2019,71
+Stomach cancer,Digestive,N/A,01/01/2019,2026
+ Bladder cancer,Renal,N/A,01/01/2019,289
+Uterine cancer,Reproductive,Female,01/01/2019,157
+Ovarian cancer,Reproductive,Female,01/01/2019,591
+Cervical cancer,Reproductive,Female,01/01/2019,1725
+Brain and central nervous system cancer,Neuronal,N/A,01/01/2019,530
+Non-Hodgkin lymphoma,Circulatory,N/A,01/01/2019,902
+Pancreatic cancer,Digestive,N/A,01/01/2019,696
+Esophageal cancer,Digestive,N/A,01/01/2019,2831
+Testicular cancer,Reproductive,Male,01/01/2019,13
+Nasopharynx cance,Respiratory,N/A,01/01/2019,469
+Other pharynx cancer,Respiratory,N/A,01/01/2019,228
+Colon and rectum cancer,Digestive,N/A,01/01/2019,1628
+Non-melanoma skin cancer,Skin,N/A,01/01/2019,112
+Mesothelioma,Other,N/A,01/01/2019,56
+Liver cancer,Digestive,N/A,01/01/2018,700
+Kidney cancer,Renal,N/A,01/01/2018,163
+Lip and oral cavity cancer,Digestive,N/A,01/01/2018,851
+"Tracheal, bronchus, and lung cancer",Respiratory,N/A,01/01/2018,1219
+Larynx cancer,Respiratory,N/A,01/01/2018,313
+Gallbladder and biliary tract cancer,Digestive,N/A,01/01/2018,280
+Malignant skin melanoma,Skin,N/A,01/01/2018,128
+Leukemia,Circulatory,N/A,01/01/2018,787
+Hodgkin lymphoma,Circulatory,N/A,01/01/2018,162
+Multiple myeloma,Circulatory,N/A,01/01/2018,293
+Other neoplasms,Circulatory,N/A,01/01/2018,64
+Breast cancer,Reproductive,Male&Female,01/01/2018,2213
+Prostate cancer,Reproductive,Male,01/01/2018,1787
+Thyroid cancer,Endocrine,N/A,01/01/2018,69
+Stomach cancer,Digestive,N/A,01/01/2018,1965
+ Bladder cancer,Renal,N/A,01/01/2018,276
+Uterine cancer,Reproductive,Female,01/01/2018,151
+Ovarian cancer,Reproductive,Female,01/01/2018,561
+Cervical cancer,Reproductive,Female,01/01/2018,1669
+Brain and central nervous system cancer,Neuronal,N/A,01/01/2018,515
+Non-Hodgkin lymphoma,Circulatory,N/A,01/01/2018,867
+Pancreatic cancer,Digestive,N/A,01/01/2018,654
+Esophageal cancer,Digestive,N/A,01/01/2018,2718
+Testicular cancer,Reproductive,Male,01/01/2018,13
+Nasopharynx cance,Respiratory,N/A,01/01/2018,453
+Other pharynx cancer,Respiratory,N/A,01/01/2018,218
+Colon and rectum cancer,Digestive,N/A,01/01/2018,1548
+Non-melanoma skin cancer,Skin,N/A,01/01/2018,107
+Mesothelioma,Other,N/A,01/01/2018,54
+Liver cancer,Digestive,N/A,01/01/2017,677
+Kidney cancer,Renal,N/A,01/01/2017,155
+Lip and oral cavity cancer,Digestive,N/A,01/01/2017,815
+"Tracheal, bronchus, and lung cancer",Respiratory,N/A,01/01/2017,1159
+Larynx cancer,Respiratory,N/A,01/01/2017,302
+Gallbladder and biliary tract cancer,Digestive,N/A,01/01/2017,269
+Malignant skin melanoma,Skin,N/A,01/01/2017,123
+Leukemia,Circulatory,N/A,01/01/2017,775
+Hodgkin lymphoma,Circulatory,N/A,01/01/2017,160
+Multiple myeloma,Circulatory,N/A,01/01/2017,279
+Other neoplasms,Circulatory,N/A,01/01/2017,61
+Breast cancer,Reproductive,Male&Female,01/01/2017,2097
+Prostate cancer,Reproductive,Male,01/01/2017,1687
+Thyroid cancer,Endocrine,N/A,01/01/2017,66
+Stomach cancer,Digestive,N/A,01/01/2017,1907
+ Bladder cancer,Renal,N/A,01/01/2017,263
+Uterine cancer,Reproductive,Female,01/01/2017,144
+Ovarian cancer,Reproductive,Female,01/01/2017,528
+Cervical cancer,Reproductive,Female,01/01/2017,1614
+Brain and central nervous system cancer,Neuronal,N/A,01/01/2017,501
+Non-Hodgkin lymphoma,Circulatory,N/A,01/01/2017,831
+Pancreatic cancer,Digestive,N/A,01/01/2017,611
+Esophageal cancer,Digestive,N/A,01/01/2017,2605
+Testicular cancer,Reproductive,Male,01/01/2017,12
+Nasopharynx cance,Respiratory,N/A,01/01/2017,437
+Other pharynx cancer,Respiratory,N/A,01/01/2017,208
+Colon and rectum cancer,Digestive,N/A,01/01/2017,1469
+Non-melanoma skin cancer,Skin,N/A,01/01/2017,101
+Mesothelioma,Other,N/A,01/01/2017,51
+Liver cancer,Digestive,N/A,01/01/2016,659
+Kidney cancer,Renal,N/A,01/01/2016,148
+Lip and oral cavity cancer,Digestive,N/A,01/01/2016,787
+"Tracheal, bronchus, and lung cancer",Respiratory,N/A,01/01/2016,1112
+Larynx cancer,Respiratory,N/A,01/01/2016,293
+Gallbladder and biliary tract cancer,Digestive,N/A,01/01/2016,260
+Malignant skin melanoma,Skin,N/A,01/01/2016,119
+Leukemia,Circulatory,N/A,01/01/2016,759
+Hodgkin lymphoma,Circulatory,N/A,01/01/2016,158
+Multiple myeloma,Circulatory,N/A,01/01/2016,268
+Other neoplasms,Circulatory,N/A,01/01/2016,58
+Breast cancer,Reproductive,Male&Female,01/01/2016,2004
+Prostate cancer,Reproductive,Male,01/01/2016,1608
+Thyroid cancer,Endocrine,N/A,01/01/2016,64
+Stomach cancer,Digestive,N/A,01/01/2016,1860
+ Bladder cancer,Renal,N/A,01/01/2016,253
+Uterine cancer,Reproductive,Female,01/01/2016,138
+Ovarian cancer,Reproductive,Female,01/01/2016,498
+Cervical cancer,Reproductive,Female,01/01/2016,1578
+Brain and central nervous system cancer,Neuronal,N/A,01/01/2016,485
+Non-Hodgkin lymphoma,Circulatory,N/A,01/01/2016,799
+Pancreatic cancer,Digestive,N/A,01/01/2016,575
+Esophageal cancer,Digestive,N/A,01/01/2016,2510
+Testicular cancer,Reproductive,Male,01/01/2016,12
+Nasopharynx cance,Respiratory,N/A,01/01/2016,425
+Other pharynx cancer,Respiratory,N/A,01/01/2016,200
+Colon and rectum cancer,Digestive,N/A,01/01/2016,1405
+Non-melanoma skin cancer,Skin,N/A,01/01/2016,96
+Mesothelioma,Other,N/A,01/01/2016,49
+Liver cancer,Digestive,N/A,01/01/2015,646
+Kidney cancer,Renal,N/A,01/01/2015,142
+Lip and oral cavity cancer,Digestive,N/A,01/01/2015,763
+"Tracheal, bronchus, and lung cancer",Respiratory,N/A,01/01/2015,1071
+Larynx cancer,Respiratory,N/A,01/01/2015,286
+Gallbladder and biliary tract cancer,Digestive,N/A,01/01/2015,252
+Malignant skin melanoma,Skin,N/A,01/01/2015,115
+Leukemia,Circulatory,N/A,01/01/2015,758
+Hodgkin lymphoma,Circulatory,N/A,01/01/2015,156
+Multiple myeloma,Circulatory,N/A,01/01/2015,258
+Other neoplasms,Circulatory,N/A,01/01/2015,56
+Breast cancer,Reproductive,Male&Female,01/01/2015,1916
+Prostate cancer,Reproductive,Male,01/01/2015,1545
+Thyroid cancer,Endocrine,N/A,01/01/2015,63
+Stomach cancer,Digestive,N/A,01/01/2015,1822
+ Bladder cancer,Renal,N/A,01/01/2015,245
+Uterine cancer,Reproductive,Female,01/01/2015,133
+Ovarian cancer,Reproductive,Female,01/01/2015,472
+Cervical cancer,Reproductive,Female,01/01/2015,1542
+Brain and central nervous system cancer,Neuronal,N/A,01/01/2015,477
+Non-Hodgkin lymphoma,Circulatory,N/A,01/01/2015,775
+Pancreatic cancer,Digestive,N/A,01/01/2015,544
+Esophageal cancer,Digestive,N/A,01/01/2015,2432
+Testicular cancer,Reproductive,Male,01/01/2015,12
+Nasopharynx cance,Respiratory,N/A,01/01/2015,413
+Other pharynx cancer,Respiratory,N/A,01/01/2015,193
+Colon and rectum cancer,Digestive,N/A,01/01/2015,1348
+Non-melanoma skin cancer,Skin,N/A,01/01/2015,92
+Mesothelioma,Other,N/A,01/01/2015,48
+Liver cancer,Digestive,N/A,01/01/2014,635
+Kidney cancer,Renal,N/A,01/01/2014,136
+Lip and oral cavity cancer,Digestive,N/A,01/01/2014,741
+"Tracheal, bronchus, and lung cancer",Respiratory,N/A,01/01/2014,1035
+Larynx cancer,Respiratory,N/A,01/01/2014,280
+Gallbladder and biliary tract cancer,Digestive,N/A,01/01/2014,244
+Malignant skin melanoma,Skin,N/A,01/01/2014,112
+Leukemia,Circulatory,N/A,01/01/2014,759
+Hodgkin lymphoma,Circulatory,N/A,01/01/2014,155
+Multiple myeloma,Circulatory,N/A,01/01/2014,250
+Other neoplasms,Circulatory,N/A,01/01/2014,53
+Breast cancer,Reproductive,Male&Female,01/01/2014,1834
+Prostate cancer,Reproductive,Male,01/01/2014,1493
+Thyroid cancer,Endocrine,N/A,01/01/2014,61
+Stomach cancer,Digestive,N/A,01/01/2014,1790
+ Bladder cancer,Renal,N/A,01/01/2014,238
+Uterine cancer,Reproductive,Female,01/01/2014,128
+Ovarian cancer,Reproductive,Female,01/01/2014,447
+Cervical cancer,Reproductive,Female,01/01/2014,1513
+Brain and central nervous system cancer,Neuronal,N/A,01/01/2014,471
+Non-Hodgkin lymphoma,Circulatory,N/A,01/01/2014,755
+Pancreatic cancer,Digestive,N/A,01/01/2014,515
+Esophageal cancer,Digestive,N/A,01/01/2014,2372
+Testicular cancer,Reproductive,Male,01/01/2014,12
+Nasopharynx cance,Respiratory,N/A,01/01/2014,403
+Other pharynx cancer,Respiratory,N/A,01/01/2014,187
+Colon and rectum cancer,Digestive,N/A,01/01/2014,1296
+Non-melanoma skin cancer,Skin,N/A,01/01/2014,89
+Mesothelioma,Other,N/A,01/01/2014,46
+Liver cancer,Digestive,N/A,01/01/2013,624
+Kidney cancer,Renal,N/A,01/01/2013,131
+Lip and oral cavity cancer,Digestive,N/A,01/01/2013,722
+"Tracheal, bronchus, and lung cancer",Respiratory,N/A,01/01/2013,1003
+Larynx cancer,Respiratory,N/A,01/01/2013,274
+Gallbladder and biliary tract cancer,Digestive,N/A,01/01/2013,237
+Malignant skin melanoma,Skin,N/A,01/01/2013,109
+Leukemia,Circulatory,N/A,01/01/2013,754
+Hodgkin lymphoma,Circulatory,N/A,01/01/2013,152
+Multiple myeloma,Circulatory,N/A,01/01/2013,243
+Other neoplasms,Circulatory,N/A,01/01/2013,51
+Breast cancer,Reproductive,Male&Female,01/01/2013,1749
+Prostate cancer,Reproductive,Male,01/01/2013,1444
+Thyroid cancer,Endocrine,N/A,01/01/2013,59
+Stomach cancer,Digestive,N/A,01/01/2013,1762
+ Bladder cancer,Renal,N/A,01/01/2013,232
+Uterine cancer,Reproductive,Female,01/01/2013,123
+Ovarian cancer,Reproductive,Female,01/01/2013,422
+Cervical cancer,Reproductive,Female,01/01/2013,1477
+Brain and central nervous system cancer,Neuronal,N/A,01/01/2013,462
+Non-Hodgkin lymphoma,Circulatory,N/A,01/01/2013,735
+Pancreatic cancer,Digestive,N/A,01/01/2013,491
+Esophageal cancer,Digestive,N/A,01/01/2013,2321
+Testicular cancer,Reproductive,Male,01/01/2013,11
+Nasopharynx cance,Respiratory,N/A,01/01/2013,392
+Other pharynx cancer,Respiratory,N/A,01/01/2013,181
+Colon and rectum cancer,Digestive,N/A,01/01/2013,1250
+Non-melanoma skin cancer,Skin,N/A,01/01/2013,85
+Mesothelioma,Other,N/A,01/01/2013,44
+Liver cancer,Digestive,N/A,01/01/2012,613
+Kidney cancer,Renal,N/A,01/01/2012,127
+Lip and oral cavity cancer,Digestive,N/A,01/01/2012,703
+"Tracheal, bronchus, and lung cancer",Respiratory,N/A,01/01/2012,975
+Larynx cancer,Respiratory,N/A,01/01/2012,270
+Gallbladder and biliary tract cancer,Digestive,N/A,01/01/2012,230
+Malignant skin melanoma,Skin,N/A,01/01/2012,106
+Leukemia,Circulatory,N/A,01/01/2012,742
+Hodgkin lymphoma,Circulatory,N/A,01/01/2012,150
+Multiple myeloma,Circulatory,N/A,01/01/2012,235
+Other neoplasms,Circulatory,N/A,01/01/2012,49
+Breast cancer,Reproductive,Male&Female,01/01/2012,1664
+Prostate cancer,Reproductive,Male,01/01/2012,1393
+Thyroid cancer,Endocrine,N/A,01/01/2012,58
+Stomach cancer,Digestive,N/A,01/01/2012,1737
+ Bladder cancer,Renal,N/A,01/01/2012,226
+Uterine cancer,Reproductive,Female,01/01/2012,118
+Ovarian cancer,Reproductive,Female,01/01/2012,398
+Cervical cancer,Reproductive,Female,01/01/2012,1436
+Brain and central nervous system cancer,Neuronal,N/A,01/01/2012,452
+Non-Hodgkin lymphoma,Circulatory,N/A,01/01/2012,715
+Pancreatic cancer,Digestive,N/A,01/01/2012,468
+Esophageal cancer,Digestive,N/A,01/01/2012,2266
+Testicular cancer,Reproductive,Male,01/01/2012,11
+Nasopharynx cance,Respiratory,N/A,01/01/2012,383
+Other pharynx cancer,Respiratory,N/A,01/01/2012,176
+Colon and rectum cancer,Digestive,N/A,01/01/2012,1205
+Non-melanoma skin cancer,Skin,N/A,01/01/2012,82
+Mesothelioma,Other,N/A,01/01/2012,43
+Liver cancer,Digestive,N/A,01/01/2011,601
+Kidney cancer,Renal,N/A,01/01/2011,122
+Lip and oral cavity cancer,Digestive,N/A,01/01/2011,682
+"Tracheal, bronchus, and lung cancer",Respiratory,N/A,01/01/2011,943
+Larynx cancer,Respiratory,N/A,01/01/2011,265
+Gallbladder and biliary tract cancer,Digestive,N/A,01/01/2011,223
+Malignant skin melanoma,Skin,N/A,01/01/2011,102
+Leukemia,Circulatory,N/A,01/01/2011,732
+Hodgkin lymphoma,Circulatory,N/A,01/01/2011,147
+Multiple myeloma,Circulatory,N/A,01/01/2011,227
+Other neoplasms,Circulatory,N/A,01/01/2011,47
+Breast cancer,Reproductive,Male&Female,01/01/2011,1584
+Prostate cancer,Reproductive,Male,01/01/2011,1343
+Thyroid cancer,Endocrine,N/A,01/01/2011,56
+Stomach cancer,Digestive,N/A,01/01/2011,1707
+ Bladder cancer,Renal,N/A,01/01/2011,221
+Uterine cancer,Reproductive,Female,01/01/2011,113
+Ovarian cancer,Reproductive,Female,01/01/2011,374
+Cervical cancer,Reproductive,Female,01/01/2011,1400
+Brain and central nervous system cancer,Neuronal,N/A,01/01/2011,441
+Non-Hodgkin lymphoma,Circulatory,N/A,01/01/2011,699
+Pancreatic cancer,Digestive,N/A,01/01/2011,445
+Esophageal cancer,Digestive,N/A,01/01/2011,2208
+Testicular cancer,Reproductive,Male,01/01/2011,11
+Nasopharynx cance,Respiratory,N/A,01/01/2011,372
+Other pharynx cancer,Respiratory,N/A,01/01/2011,170
+Colon and rectum cancer,Digestive,N/A,01/01/2011,1161
+Non-melanoma skin cancer,Skin,N/A,01/01/2011,78
+Mesothelioma,Other,N/A,01/01/2011,41
+Liver cancer,Digestive,N/A,01/01/2010,596
+Kidney cancer,Renal,N/A,01/01/2010,116
+Lip and oral cavity cancer,Digestive,N/A,01/01/2010,659
+"Tracheal, bronchus, and lung cancer",Respiratory,N/A,01/01/2010,907
+Larynx cancer,Respiratory,N/A,01/01/2010,258
+Gallbladder and biliary tract cancer,Digestive,N/A,01/01/2010,215
+Malignant skin melanoma,Skin,N/A,01/01/2010,98
+Leukemia,Circulatory,N/A,01/01/2010,699
+Hodgkin lymphoma,Circulatory,N/A,01/01/2010,143
+Multiple myeloma,Circulatory,N/A,01/01/2010,218
+Other neoplasms,Circulatory,N/A,01/01/2010,44
+Breast cancer,Reproductive,Male&Female,01/01/2010,1503
+Prostate cancer,Reproductive,Male,01/01/2010,1297
+Thyroid cancer,Endocrine,N/A,01/01/2010,54
+Stomach cancer,Digestive,N/A,01/01/2010,1671
+ Bladder cancer,Renal,N/A,01/01/2010,217
+Uterine cancer,Reproductive,Female,01/01/2010,108
+Ovarian cancer,Reproductive,Female,01/01/2010,349
+Cervical cancer,Reproductive,Female,01/01/2010,1358
+Brain and central nervous system cancer,Neuronal,N/A,01/01/2010,421
+Non-Hodgkin lymphoma,Circulatory,N/A,01/01/2010,680
+Pancreatic cancer,Digestive,N/A,01/01/2010,423
+Esophageal cancer,Digestive,N/A,01/01/2010,2139
+Testicular cancer,Reproductive,Male,01/01/2010,11
+Nasopharynx cance,Respiratory,N/A,01/01/2010,359
+Other pharynx cancer,Respiratory,N/A,01/01/2010,165
+Colon and rectum cancer,Digestive,N/A,01/01/2010,1115
+Non-melanoma skin cancer,Skin,N/A,01/01/2010,74
+Mesothelioma,Other,N/A,01/01/2010,39
